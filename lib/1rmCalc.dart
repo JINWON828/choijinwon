@@ -27,7 +27,7 @@ class RmCalc extends StatelessWidget {
                 Text("무게"),
               ],
             ),
-            TextField(keyboardType: TextInputType.number,
+            TextField(keyboardType: TextInputType.number,fvbnm
               style: new TextStyle(
                   fontSize: 12.0,
                   color: const Color(0xFF000000),
